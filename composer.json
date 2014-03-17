@@ -1,0 +1,19 @@
+{
+    "name": "gordalina/hipay-wallet",
+    "description": "hipay wallet sdk",
+    "keywords": ["payment", "hipay"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Gordalina",
+            "email": "samuel.gordalina@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.1"
+    },
+    "autoload": {
+        "classmap": [ "src" ]
+    }
+}
