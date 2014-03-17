@@ -1,6 +1,6 @@
 {
     "name": "gordalina/hipay-wallet",
-    "description": "hipay wallet sdk",
+    "description": "Official hipay wallet SDK as a composer package",
     "keywords": ["payment", "hipay"],
     "license": "MIT",
     "authors": [
